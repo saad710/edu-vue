@@ -1,0 +1,119 @@
+body{
+    font-family: 'Poppins', sans-serif !important ; 
+}
+.navbar-brand img{
+    height:50px;
+    width:150px;
+}
+.button{
+    background-color:#21B573;
+    border-radius: 40px;
+    border:none;
+    padding: 10px 30px;
+    color:white;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.sec1{
+    padding:15px 10px;
+}
+.container{
+    margin-bottom: 70px;
+}
+.sec1 p{
+    color:grey;
+    font-weight: 500;
+}
+.sec2 img{
+    width:450px;
+}
+#home{
+    background-color:#F0FFF0;
+    border-radius: 15px;
+}
+.card-small img{
+    height: 80px;
+    width:80px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+.card-small{
+    width:200px !important;
+    height:180px!important;
+    background-color:#F0FFF0;
+    border:none;
+    box-shadow: powderblue 10px 10px 20px;
+    border-radius: 10px;
+}
+.card-sec{
+    display:flex;
+    justify-content: space-around;
+}
+.card-body-small h5 , h6{
+
+    text-align: center;
+}
+.card-small:hover{
+    background-color:#21B573;
+    color: white;
+}
+.container h3{
+    margin-top: 15px;
+}
+.course {
+    padding:20px 10px;
+    box-shadow:powderblue 5px 10px 20px;
+    text-shadow:powderblue 5px 10px 20px ;
+    margin-bottom: 30px;
+}
+.button-card{
+    background-color:#21B573;
+    border-radius: 40px;
+    border:none;
+    padding: 10px 30px;
+    color:white;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-left:-10px;
+    margin-top: 10px;  
+}
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: powderblue 5px 10px 20px;
+}
+.card-footer{
+    border:none;
+    background-color: white;
+}
+.test{  
+    padding:20px 10px;
+    box-shadow:powderblue 5px 10px 20px;
+    text-shadow:powderblue 5px 10px 20px ;
+    margin-bottom: 30px;   
+}
+.row .Man{
+    position:relative;
+    top:-15px;
+}
+#last{
+     background-color:#282531;
+     color: white;
+     padding:20px 40px;
+}
+.row .para{
+    margin-top: 20px;
+}
+.black{
+    text-align: center;
+}
+.row ul li{
+    text-decoration: none;
+    list-style: none;
+    color: powderblue;
+}
+footer{
+    text-align:center ;
+    margin-top: 20px;
+    color:grey;
+}
